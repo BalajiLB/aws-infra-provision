@@ -1,0 +1,8 @@
+aws_region           = "us-west-2"
+vpc_cidr             = "10.0.0.0/16"
+public_subnet_a_cidr = "10.0.1.0/24"
+public_subnet_b_cidr = "10.0.2.0/24"
+vpc_name             = "demo-vpc"
+instance_type        = "t2.micro"
+ami_id               = "ami-05f991c49d264708f"
+bucket_name          = "my-terraform-demo-bucket"

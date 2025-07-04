@@ -1,2 +1,2 @@
-# aws-infra-provision
-Provisioning of aws-infra-provision
+# terraform-aws-infra-module
+Provision of aws resource by terraform module.
